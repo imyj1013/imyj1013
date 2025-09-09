@@ -1,6 +1,22 @@
 # <div align="center"> Welcome to 👨‍💻 **[imyj1013](https://github.com/imyj1013)** 's github</div>
 
 
+## 📝 프로젝트
+
+### 1. AI 모의면접 플랫폼 제작
+- **기술 스택**: Spring Boot, React, MySQL, JWT, Python
+- **설명**: LLM을 활용한 모의 면접 시스템을 구축하여, 사용자들이 실시간으로 AI와 면접을 진행하고 피드백을 받을 수 있는 플랫폼을 제작
+
+### 2. 여행 정보 공유 커뮤니티
+- **기술 스택**: Spring Boot, React, MySQL, JWT
+- **설명**: 여행 정보를 공유하고, 사용자들이 여행 계획을 세울 수 있도록 돕는 커뮤니티 플랫폼을 제작
+
+### 3. DQN, DDQN, Dueling DQN 성능 비교
+- **기술 스택**: numpy, pandas, open ai gym
+- **설명**: cartpole, lunar lander 환경을 이용한 DQN, DDQN, Dueling DQN 성능 비교
+
+---
+
 ## 🔧 사용 기술
 
 ### 백엔드
@@ -29,17 +45,5 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
-
----
-
-## 📝 프로젝트 경험
-
-### 1. AI 모의면접 플랫폼 제작
-- **기술 스택**: Spring Boot, React, MySQL, JWT, Python
-- **설명**: AI를 활용한 모의 면접 시스템을 구축하여, 사용자들이 실시간으로 AI와 면접을 진행하고 피드백을 받을 수 있는 플랫폼을 개발했습니다.
-
-### 2. 여행 정보 공유 커뮤니티
-- **기술 스택**: Spring Boot, React, MySQL, JWT
-- **설명**: 여행 정보를 공유하고, 사용자들이 여행 계획을 세울 수 있도록 돕는 커뮤니티 플랫폼을 제작했습니다.
 
 ---
