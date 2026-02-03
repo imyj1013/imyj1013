@@ -48,10 +48,8 @@ RAG · Vector DB · FastAPI 기반 AI 서버 · 출력 형식 안정화/후처�
 ## 🧩 Featured Projects
 
 ### 1) 🏠 DojangKok — 주택 임대차 계약 보조 서비스 (Team)
-- **Kanban (Project Board)**: https://github.com/orgs/100-hours-a-week/projects/298/views/8  
 - **Wiki (설계 문서)**: https://github.com/100-hours-a-week/14-team-dojangkok-ai/wiki  
 - **Repo (AI)**: https://github.com/100-hours-a-week/14-team-dojangkok-ai  
-- **Org / Team**: https://github.com/orgs/100-hours-a-week/teams/14-1
 - **Demo Video**: https://drive.google.com/file/d/1uwe1eeYu5zgqgl7nNyteZwHtJ0fY2_km/view?usp=sharing
 
 **기간**: 2025.12 ~ 현재  
