@@ -1,38 +1,126 @@
 # <div align="center"> Welcome to 👨‍💻 **[imyj1013](https://github.com/imyj1013)** 's github</div>
+<div align="center">
+
+**LLM을 “데모”가 아니라 운영 가능한 서비스 기능으로 만드는 개발자**  
+RAG · Vector DB · FastAPI 기반 AI 서버 · 출력 형식 안정화/후처리 · 상태/비동기 파이프라인 설계에 관심이 많습니다.
+
+[![Email](https://img.shields.io/badge/Email-imyj1013%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:imyj1013@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-imyj1013-181717?style=flat&logo=github&logoColor=white)](https://github.com/imyj1013)
+
+</div>
+
+---
+
+## ✨ About Me
+- **관심 분야**: LLM 서비스화 / RAG / Vector DB / 에이전트 워크플로우 / 서빙·관측·비용 최적화
+- **지향점**: 빠르게 실험하고, 지표/리스크를 정의한 뒤, 운영 가능한 구조로 고도화합니다.
+
+---
+
+## 🔧 Tech Stack
+
+### AI / LLM
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![RAG](https://img.shields.io/badge/RAG-6C47FF?style=flat)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-111111?style=flat)
+![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat)
+
+### Backend / DB / Cloud
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+
+---
 
 
 ## 📝 프로젝트
 
-### 1. AI 모의면접 플랫폼 제작
-- **기술 스택**: Spring Boot, React, MySQL, JWT, Python
-- **설명**: LLM을 활용한 모의 면접 시스템을 구축하여, 사용자들이 실시간으로 AI와 면접을 진행하고 피드백을 받을 수 있는 플랫폼을 제작
+## 🧩 Featured Projects
 
-### 2. 여행 정보 공유 커뮤니티
-- **기술 스택**: Spring Boot, React, MySQL, JWT
-- **설명**: 여행 정보를 공유하고, 사용자들이 여행 계획을 세울 수 있도록 돕는 커뮤니티 플랫폼을 제작
+### 1) 🏠 DojangKok — 주택 임대차 계약 보조 서비스 (Team)
+- **Kanban (Project Board)**: https://github.com/orgs/100-hours-a-week/projects/298/views/8  
+- **Wiki (설계 문서)**: https://github.com/100-hours-a-week/14-team-dojangkok-ai/wiki  
+- **Repo (AI)**: https://github.com/100-hours-a-week/14-team-dojangkok-ai  
+- **Org / Team**: https://github.com/orgs/100-hours-a-week/teams/14-1  
+- **Demo Video**: _TBD (추후 추가 예정)_
 
-### 3. DQN, DDQN, Dueling DQN 성능 비교
-- **기술 스택**: numpy, pandas, open ai gym
-- **설명**: cartpole, lunar lander 환경을 이용한 DQN, DDQN, Dueling DQN 성능 비교
+**기간**: 2025.12 ~ 현재  
+**팀/역할**: AI 2인(본인: AI/LLM 파트 리드) · Cloud 2인 · FE 1인 · BE 1인
+
+**한줄소개**  
+OCR → LLM 분석 → 쉬운 계약서 생성 + 체크리스트/챗봇을 제공하는 계약 보조 서비스
+
+**My Role (AI/LLM)**  
+- 문서 기반 파이프라인(OCR→LLM) 설계 및 결과 생성(마크다운) 흐름 정의  
+- 라이프스타일 키워드 기반 체크리스트 생성 및 출력 형식 안정화(후처리/검증)  
+- 법령/문서 청킹·임베딩 → ChromaDB 적재 → RAG Q&A 챗봇 구조 설계  
+- (실험) 파인튜닝/서빙(vLLM) 검토 및 운영 관점 개선
+- 칸반보드를 활용한 프로젝트 진행 상황 관리
+
+---
+
+### 2) 📚 Study Assistant — 학습 계획/요약/챗봇 (Hackathon)
+- **Demo Video (Drive)**: https://drive.google.com/file/d/1LPZ2HeFnSiq7vH4epGwKq1_-XKy5G2x9/view?usp=sharing  
+- **Org**: https://github.com/KakaoTech-Bootcamp-14  
+- **Repo (AI)**: https://github.com/KakaoTech-Bootcamp-14/Hackathon-AI  
+
+**기간**: 2025.12.17 ~ 2025.12.19  
+**팀/역할**: AI 1인(본인) · Cloud 2인 · Full-Stack 2인 
+
+**한줄소개**  
+학습 PDF + 기간/시간 입력 → 목차 기반 학습계획 생성 → 오늘치 학습자료 생성 → Q&A 챗봇 제공
+
+**My Role (AI/LLM)**  
+- PDF 청킹/임베딩 → Vector DB 적재 → Top-K 근거 기반 응답 생성(RAG)  
+- 일정 생성(/schedule) · 요약(/summarize) · 대화(/chat) API로 기능을 제품 흐름으로 구성  
+- 세션 히스토리/결과 상태 저장으로 연속 사용 경험 지원
 
 ---
 
-## 🔧 사용 기술
+### 3) 🧠 Transformer(GPT-2) 구현/분석 & 파인튜닝 (Personal)
+- **Report (Drive)**: https://drive.google.com/file/d/1VL1DzvB1u_Rs-DFFTk7CH-sRZgZrhCjJ/view?usp=sharing  
 
-### I use it often.
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+**기간**: 2025.11 ~ 2025.11
 
-### I've used it before.
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+**한줄소개**  
+Transformer 디코더 기반 언어 모델을 PyTorch로 구현하고 GPT-2 체크포인트 로딩/파인튜닝 실험 수행
+
+**Highlights**  
+- Multi-Head Attention / FFN 등 핵심 모듈 구현  
+- 소설 텍스트 파인튜닝 및 결과 분석/시각화
 
 ---
+
+### 4) 💼 Verify Interview — LLM 기반 모의면접 & 채용공고 추천 (Team)
+- **Presentation + Demo Video (Drive)**: https://drive.google.com/file/d/1VM_IgrTpaMfypHFSUqwBAxEClP77LTST/view?usp=sharing  
+- **Repo**: https://github.com/imyj1013/veriview-project  
+- **Slides (Drive)**: https://drive.google.com/file/d/1x3IjUAxKAmkMV6G4wyaVRWYgceG4AMoA/view?usp=sharing  
+
+**기간**: 2025.03 ~ 2025.06  
+**팀/역할**: Backend/Data 1인(본인) · AI 1인 · UI/UX 1인 · FE 1인
+
+**한줄소개**  
+구직자 포트폴리오 기반 공고 추천 + 맞춤형 모의면접을 제공하는 플랫폼
+
+**My Role (Backend, Data)**  
+- Spring Boot 기반 백엔드 전반 구현 및 모델 서버(Flask) 연동  
+- TF-IDF 기반 공고 추천, JWT 인증/인가, Swagger 문서화, Postman 테스트 자동화
+- 채용공고 수집 및 데이터 전처리
+
+---
+
+## 📌 Certificates / Awards / Bootcamp
+- 정보처리기사 / SQLD
+- 성적우수장학금(2023-1학기 1등, 2022-2학기 3등)
+- 카카오테크 부트캠프 3기 생성형 인공지능 과정(2025.09.08~현재)
+
