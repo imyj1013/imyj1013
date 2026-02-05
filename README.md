@@ -34,10 +34,6 @@ RAG · Vector DB · FastAPI 기반 AI 서버 · 출력 형식 안정화/후처�
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 
 ---
@@ -62,7 +58,7 @@ OCR → LLM 분석 → 쉬운 계약서 생성 + 체크리스트/챗봇을 제�
 - 문서 기반 파이프라인(OCR→LLM) 설계 및 결과 생성(마크다운) 흐름 정의  
 - 라이프스타일 키워드 기반 체크리스트 생성 및 출력 형식 안정화(후처리/검증)  
 - 법령/문서 청킹·임베딩 → ChromaDB 적재 → RAG Q&A 챗봇 구조 설계  
-- (실험) 파인튜닝/서빙(vLLM) 검토 및 운영 관점 개선
+- 파인튜닝/서빙(vLLM) 검토 및 운영 관점 개선
 - 칸반보드를 활용한 프로젝트 진행 상황 관리
 
 ---
