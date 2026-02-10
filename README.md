@@ -49,16 +49,16 @@ RAG · Vector DB · FastAPI 기반 AI 서버 · 출력 형식 안정화/후처�
 - **Demo Video**: https://drive.google.com/file/d/1uwe1eeYu5zgqgl7nNyteZwHtJ0fY2_km/view?usp=sharing
 
 **기간**: 2025.12 ~ 현재  
-**팀/역할**: AI 2인(본인: AI/LLM 파트 리드) · Cloud 2인 · FE 1인 · BE 1인
+**팀/역할**: AI 2인(본인: AI/LLM 파트) · Cloud 2인 · FE 1인 · BE 1인
 
 **한줄소개**  
 OCR → LLM 분석 → 쉬운 계약서 생성 + 체크리스트/챗봇을 제공하는 계약 보조 서비스
 
 **My Role (AI/LLM)**  
 - 문서 기반 파이프라인(OCR→LLM) 설계 및 결과 생성(마크다운) 흐름 정의  
-- 라이프스타일 키워드 기반 체크리스트 생성 및 출력 형식 안정화(후처리/검증)  
+- 라이프스타일 키워드 기반 체크리스트 생성
 - 법령/문서 청킹·임베딩 → ChromaDB 적재 → RAG Q&A 챗봇 구조 설계  
-- 파인튜닝/서빙(vLLM) 검토 및 운영 관점 개선
+- 파인튜닝 검토 및 운영 관점 개선
 - 칸반보드를 활용한 프로젝트 진행 상황 관리
 
 ---
@@ -86,7 +86,7 @@ OCR → LLM 분석 → 쉬운 계약서 생성 + 체크리스트/챗봇을 제�
 **기간**: 2025.11 ~ 2025.11
 
 **한줄소개**  
-Transformer 디코더 기반 언어 모델을 PyTorch로 구현하고 GPT-2 체크포인트 로딩/파인튜닝 실험 수행
+Transformer 디코더 기반 언어 모델을 오픈소스를 활용해 구현하고 GPT-2 체크포인트 로딩/파인튜닝 실험 수행
 
 **Highlights**  
 - Multi-Head Attention / FFN 등 핵심 모듈 구현  
@@ -107,7 +107,7 @@ Transformer 디코더 기반 언어 모델을 PyTorch로 구현하고 GPT-2 체�
 
 **My Role (Backend, Data)**  
 - Spring Boot 기반 백엔드 전반 구현 및 모델 서버(Flask) 연동  
-- TF-IDF 기반 공고 추천, JWT 인증/인가, Swagger 문서화, Postman 테스트 자동화
+- TF-IDF 기반 공고 추천, JWT 인증/인가, Postman 테스트 자동화
 - 채용공고 수집 및 데이터 전처리
 
 ---
