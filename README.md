@@ -77,7 +77,6 @@ OCR → LLM 분석 → 쉬운 계약서 생성 + 체크리스트/챗봇을 제�
 **My Role (AI/LLM)**  
 - PDF 청킹/임베딩 → Vector DB 적재 → Top-K 근거 기반 응답 생성(RAG)  
 - 일정 생성(/schedule) · 요약(/summarize) · 대화(/chat) API로 기능을 제품 흐름으로 구성  
-- 세션 히스토리/결과 상태 저장으로 연속 사용 경험 지원
 
 ---
 
