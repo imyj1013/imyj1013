@@ -22,17 +22,24 @@ RAG · Vector DB · FastAPI 기반 AI 서버 · 출력 형식 안정화/후처�
 ### AI / LLM
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-6C47FF?style=flat)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-111111?style=flat)
+![PEFT](https://img.shields.io/badge/PEFT-111111?style=flat)
+![QLoRA](https://img.shields.io/badge/QLoRA-111111?style=flat)
+![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
+
 
 ### Backend / DB
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 ---
 
