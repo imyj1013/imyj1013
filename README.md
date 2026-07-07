@@ -4,9 +4,6 @@
 **LLM을 “데모”가 아니라 운영 가능한 서비스 기능으로 만드는 개발자**  
 RAG · Vector DB · FastAPI 기반 AI 서버 · 출력 형식 안정화/후처리 · 상태/비동기 파이프라인 설계에 관심이 많습니다.
 
-[![Email](https://img.shields.io/badge/Email-imyj1013%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:imyj1013@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-imyj1013-181717?style=flat&logo=github&logoColor=white)](https://github.com/imyj1013)
-
 </div>
 
 ---
